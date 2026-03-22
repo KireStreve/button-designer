@@ -5,10 +5,10 @@ Unofficial, community-made button/icon designer for Stream Deck-compatible keys.
 - Live: https://kirestreve.github.io/button-plus-designer/
 - Repo: https://github.com/KireStreve/button-plus-designer
 
-##Change
+## Change
 - This is a fork from https://github.com/adamgreenough/button-designer i love this application. But because i have a Stream Deck Plus and this Stream deck has a touch strip where you can change the background. I what his design because it so beautiful.
 
-#Titel 1
+# Titel 1
 ## Titel 2
 ### Titel 3
 
