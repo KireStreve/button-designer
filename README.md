@@ -8,12 +8,14 @@ Unofficial, community-made button/icon designer for Stream Deck-compatible keys.
 ## Why this fork?
 This is a fork from https://github.com/adamgreenough/button-designer i love this application. But because i have a Stream Deck Plus and this Stream deck has a touch strip where you can change the background. I what his design because it so beautiful.
 
+> [!WARNING]
+> I am not a specialist in coding, which is why I took the repo as a fork and used Claude AI to make adjustments that I wanted to include.
+
 ## Disclaimer
 
 - **Unofficial / independent:** Not affiliated with, endorsed by, sponsored by, or otherwise approved by Corsair/Elgato or the Stream Deck brand.
 - **Trademarks:** "Stream Deck" and "Elgato" are trademarks of their respective owners and are used only to describe compatibility.
 - **No warranty:** Provided "as is" and "as available", without warranties of any kind (express or implied). To the maximum extent permitted by law, the author is not liable for any claim, damages, or other liability arising from use of this tool.
-- **WARNING:** I am not a specialist in coding, which is why I took the repo as a fork and used Claude AI to make adjustments that I wanted to include.
 
 ## License
 
