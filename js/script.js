@@ -2877,7 +2877,7 @@ document.getElementById("download").addEventListener("click", async function() {
 	}
 	
 	// Use pixelRatio to scale up to selected size (size/244)
-	const pixelRatio = exportSize / 244;
+	const pixelRatio = exportSize.width / 244;
 	
 	const exportSize = getExportSize();
 
